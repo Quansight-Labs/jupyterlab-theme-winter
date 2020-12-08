@@ -389,6 +389,6 @@ all of MD as it is not optimized for dense, information rich UIs.
 
 /* DirListing */
 
-.jp-DirListing-content {
+body[data-jp-theme-name="JupyterLab Winter"] .jp-DirListing-content {
   background-image: url('./snowflakepattern.svg');
 }
