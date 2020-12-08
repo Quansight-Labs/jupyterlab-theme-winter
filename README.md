@@ -1,5 +1,3 @@
-[![Datalayer](https://raw.githubusercontent.com/datalayer/datalayer/main/res/logo/datalayer-25.svg?sanitize=true)](https://datalayer.io)
-
 # Ξ JupyterLab Theme for Winter
 
 > Design by [Isabela Presedo-Floyd](https://github.com/isabela-pf), coded with the help of Jovyans at [Quansight](https://github.com/quansight)
