@@ -6,15 +6,15 @@ import {
 import { IThemeManager } from '@jupyterlab/apputils';
 
 /**
- * Initialization data for the @datalayer-jupyter/jupyterlab-theme-winter extension.
+ * Initialization data for the  @quansight-labs/jupyterlab-theme-winter extension.
  */
 const extension: JupyterFrontEndPlugin<void> = {
-  id: '@datalayer-jupyter/jupyterlab-theme-winter',
+  id: ' @quansight-labs/jupyterlab-theme-winter',
   requires: [IThemeManager],
   autoStart: true,
   activate: (app: JupyterFrontEnd, manager: IThemeManager) => {
-    console.log('JupyterLab extension @datalayer-jupyter/jupyterlab-theme-winter is activated!');
-    const style = '@datalayer-jupyter/jupyterlab-theme-winter/index.css';
+    console.log('JupyterLab extension  @quansight-labs/jupyterlab-theme-winter is activated!');
+    const style = ' @quansight-labs/jupyterlab-theme-winter/index.css';
     manager.register({
       name: 'JupyterLab Winter',
       isLight: true,

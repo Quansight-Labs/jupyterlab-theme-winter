@@ -1,7 +1,7 @@
 default_context:
   author_name: "Isabela Presedo-Floyd; Eric Charles; Jovyans at Quansight"
   python_name: "jupyterlab_theme_winter"
-  labextension_name: "@datalayer-jupyter/jupyterlab-theme-winter"
+  labextension_name: " @quansight-labs/jupyterlab-theme-winter"
   project_short_description: "JupyterLab Theme Winter, Designed by Isabela Presedo-Floyd"
   repository: "https://github.com/datalayer-jupyter/jupyterlab-theme-winter"
   has_server_extension: "false"

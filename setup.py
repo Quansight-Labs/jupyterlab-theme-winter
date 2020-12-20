@@ -33,7 +33,7 @@ package_data_spec = {
     ]
 }
 
-labext_name = "@datalayer-jupyter/jupyterlab-theme-winter"
+labext_name = " @quansight-labs/jupyterlab-theme-winter"
 
 data_files_spec = [
     ("share/jupyter/labextensions/%s" % labext_name, lab_path, "**"),

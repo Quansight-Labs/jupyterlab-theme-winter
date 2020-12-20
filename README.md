@@ -59,7 +59,7 @@ mkdir ~/notebooks && \
 ## Build
 
 ```bash
-# Generate sourcemaps.
+# Generate sourcemaps.jla
 jupyter labextension build --development True .
 jupyter lab build --minimize=False
 ```
