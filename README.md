@@ -2,6 +2,8 @@
 
 > Design by [Isabela Presedo-Floyd](https://github.com/isabela-pf), coded with the help of Jovyans at [Quansight](https://github.com/quansight)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Quansight-Labs/jupyterlab-theme-winter/main?urlpath=lab)
+
 ![](./winter.png)
 
 ## Use
